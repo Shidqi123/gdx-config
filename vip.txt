@@ -1,0 +1,9 @@
+﻿@
+# VIP Permanen
+999
+1
+d575a2dc0b695174
+
+# VIP Sementara (Contoh ID 8472 sampai 10 Agustus 2026)
+# 8472 : 2026-08-10
+@
