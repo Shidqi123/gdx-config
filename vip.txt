@@ -1,4 +1,4 @@
-﻿@
+
 # Cara menulis VIP PERMANEN: Cukup tulis ID orang tersebut sendirian. 
 # Contoh jika ID orangnya adalah 25 dan Anda ingin memberinya permanen:
 
@@ -8,12 +8,12 @@
 # Contoh jika ID orangnya adalah 25 dan langganannya habis 10 Agustus 2026:
 
 25 : 2026-08-10
-@
-@
+
+
 # ----------------------------------------------------
 # TULIS ID ATAU HWID USER BARU DI BAWAH GARIS INI:
 # ----------------------------------------------------
 
 1 : 2026-08-10
 
-@
+
